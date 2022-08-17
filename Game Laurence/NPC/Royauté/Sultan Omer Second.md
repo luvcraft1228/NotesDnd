@@ -1,0 +1,2 @@
+## Sultan Omer Second
+Natif de l’[[Ordre Auréonique]] et Ancien étudiant de l’université de Boccob le père d’Omer a su établir en Charlevoix une toute nouvelle puissance marchande maritime. Son em placement et idéale pour le commerce avec le Royaume des trois-Rivières.

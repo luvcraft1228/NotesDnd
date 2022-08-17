@@ -1,4 +1,6 @@
 ### Jimli
 Demi-naine. Créatrice du Saint-Graal, entre autres.
 
-race: [[Nains]]
+race: [[Nains]]![[Jimly.jpg]]
+
+Jimly

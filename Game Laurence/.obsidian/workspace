@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Armée indépendante.md",
+            "file": "Characters/Virani du Boisé.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Armée indépendante.md",
+                "file": "Characters/Virani du Boisé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Armée indépendante.md",
+                "file": "Characters/Virani du Boisé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Armée indépendante.md"
+                "file": "Characters/Virani du Boisé.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "627e1e269c6ea6e1",
   "lastOpenFiles": [
-    "Événements/Bataille de mont-tremblant.md",
-    "NPC/Jimli.md",
     "Characters/Thurrik De Marbre.md",
     "Characters/Kyros.md",
-    "Races/Gnomes.md",
-    "Races/Humains.md",
-    "Races/Elfes.md",
-    "Races/Nains.md",
-    "Mont-Royal.md",
-    "Groupes/Chasseurs de démons, tm pending.md"
+    "NPC/Royauté/Vizir Dastan.md",
+    "NPC/Royauté/Sultan Yascine.md",
+    "NPC/Royauté/Sultan Omer Second.md",
+    "NPC/Royauté/Roi Hatim.md",
+    "Groupes/Eglises/Université de Mani.md",
+    "Locations/Trois-Rivières/Sainte-Foy.md",
+    "Maps/mapSmall.jpg",
+    "Groupes/Eglises/Ordre Auréonique.md"
   ]
 }
