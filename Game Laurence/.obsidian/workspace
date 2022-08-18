@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Virani du Boisé.md",
+            "file": "Groupes/Eglises/Procan.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Virani du Boisé.md",
+                "file": "Groupes/Eglises/Procan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Virani du Boisé.md",
+                "file": "Groupes/Eglises/Procan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Virani du Boisé.md"
+                "file": "Groupes/Eglises/Procan.md"
               }
             }
           }
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "627e1e269c6ea6e1",
   "lastOpenFiles": [
-    "Characters/Thurrik De Marbre.md",
-    "Characters/Kyros.md",
-    "NPC/Royauté/Vizir Dastan.md",
-    "NPC/Royauté/Sultan Yascine.md",
-    "NPC/Royauté/Sultan Omer Second.md",
-    "NPC/Royauté/Roi Hatim.md",
-    "Groupes/Eglises/Université de Mani.md",
-    "Locations/Trois-Rivières/Sainte-Foy.md",
-    "Maps/mapSmall.jpg",
-    "Groupes/Eglises/Ordre Auréonique.md"
+    "NPC/Sorcières/Monique.md",
+    "NPC/Sorcières/Vivianne.md",
+    "NPC/Chasseurs/Mégane Wolfe.md",
+    "NPC/Chasseurs/Jormund.md",
+    "NPC/Chasseurs/Éthelyn SilverQuills.md",
+    "Groupes/Eglises/Procan.md",
+    "Races/Nains.md",
+    "NPC/Jimli.md",
+    "Groupes/Eglises/Grande Forge.md",
+    "Groupes/Characters/Thurrik De Marbre.md"
   ]
 }
