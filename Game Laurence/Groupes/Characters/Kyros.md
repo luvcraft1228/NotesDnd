@@ -6,8 +6,7 @@
 
 Kyros le chasseur
 
+Champion du Léviathan Faucheur
+
 [fiche ici](https://www.dndbeyond.com/characters/73884397)
 
-Kyros
-
-Kyros
