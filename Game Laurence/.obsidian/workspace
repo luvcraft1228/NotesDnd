@@ -7,8 +7,12 @@
         "id": "fdf58c05eab1a384",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Virani du Boisé.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,13 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Virani du Boisé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Virani du Boisé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,19 +116,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Virani du Boisé.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "fdf58c05eab1a384",
   "lastOpenFiles": [
-    "Characters/Virani du Boisé.md",
     "Characters/Thurrik De Marbre.md",
     "Characters/Kyros.md",
     "NPC/Royauté/Vizir Dastan.md",
@@ -131,6 +137,7 @@
     "NPC/Royauté/Roi Hatim.md",
     "Groupes/Eglises/Université de Mani.md",
     "Locations/Trois-Rivières/Sainte-Foy.md",
-    "Maps/mapSmall.jpg"
+    "Maps/mapSmall.jpg",
+    "Groupes/Eglises/Ordre Auréonique.md"
   ]
 }

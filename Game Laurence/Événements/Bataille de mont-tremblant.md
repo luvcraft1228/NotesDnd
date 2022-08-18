@@ -4,6 +4,3 @@
 
 
 
-bati 
-
-bataille de
