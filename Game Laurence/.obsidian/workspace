@@ -9,7 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Images/reaper.jpg"
+            "file": "Groupes/Characters/Kyros.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/reaper.jpg",
+                "file": "Groupes/Characters/Kyros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/reaper.jpg",
+                "file": "Groupes/Characters/Kyros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,27 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/reaper.jpg"
+                "file": "Groupes/Characters/Kyros.md"
               }
             }
+          },
+          {
+            "id": "f44e21c3e5cb38c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "627e1e269c6ea6e1",
+  "active": "9f7ec5ae26a439ef",
   "lastOpenFiles": [
+    "Images/kyros.jpg",
+    "Images/Lorwyn.jpg",
+    "Images/Philiax.jpg",
+    "Images/reaper.jpg",
     "Démons des heures.md",
     "Groupes/Chasseurs de démons, tm pending.md",
     "Groupes/Characters/Kyros.md",
     "NPC/Druides/Philliax.md",
     "NPC/Druides/Parcudiax.md",
-    "NPC/Jimli.md",
-    "NPC/Lorwynn.md",
-    "Groupes/Characters/Virani du Boisé.md",
-    "Groupes/Characters/Thurrik De Marbre.md",
-    "NPC/Druides/Helene.md"
+    "NPC/Jimli.md"
   ]
 }
