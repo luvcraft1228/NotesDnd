@@ -1,0 +1,1 @@
+Entrée a la montagne avec des canaux qui traversent la montagne. Anciennement dirigée par les gobelours, ils ont été renversés par les Hobgobelins, et sont maintenant pris en parias et en exclaves. 

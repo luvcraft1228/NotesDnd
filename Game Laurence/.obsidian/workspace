@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf58c05eab1a384",
+        "id": "627e1e269c6ea6e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Groupes/Characters/Thurrik De Marbre.md",
-            "mode": "source",
-            "source": false
+            "file": "Images/reaper.jpg"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupes/Characters/Thurrik De Marbre.md",
+                "file": "Images/reaper.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupes/Characters/Thurrik De Marbre.md",
+                "file": "Images/reaper.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupes/Characters/Thurrik De Marbre.md"
+                "file": "Images/reaper.jpg"
               }
             }
           }
@@ -127,17 +125,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab0a6350067af825",
+  "active": "627e1e269c6ea6e1",
   "lastOpenFiles": [
+    "Démons des heures.md",
+    "Groupes/Chasseurs de démons, tm pending.md",
+    "Groupes/Characters/Kyros.md",
+    "NPC/Druides/Philliax.md",
+    "NPC/Druides/Parcudiax.md",
+    "NPC/Jimli.md",
+    "NPC/Lorwynn.md",
     "Groupes/Characters/Virani du Boisé.md",
     "Groupes/Characters/Thurrik De Marbre.md",
-    "Groupes/Characters/Kyros.md",
-    "Groupes/Armée indépendante.md",
-    "Groupes/Eglises/Université de Mani.md",
-    "Groupes/Eglises/Ordre Auréonique.md",
-    "Groupes/Eglises/Grande Forge.md",
-    "Groupes/Eglises/Église de la Lumière.md",
-    "Locations/Colombia/Victoria.md",
-    "Locations/Colombia/Vancouver.md"
+    "NPC/Druides/Helene.md"
   ]
 }
