@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Virani du Boisé.md",
+            "file": "Groupes/Characters/Thurrik De Marbre.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Virani du Boisé.md",
+                "file": "Groupes/Characters/Thurrik De Marbre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Virani du Boisé.md",
+                "file": "Groupes/Characters/Thurrik De Marbre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Virani du Boisé.md"
+                "file": "Groupes/Characters/Thurrik De Marbre.md"
               }
             }
           }
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fdf58c05eab1a384",
+  "active": "ab0a6350067af825",
   "lastOpenFiles": [
-    "Characters/Thurrik De Marbre.md",
-    "Characters/Kyros.md",
-    "NPC/Royauté/Vizir Dastan.md",
-    "NPC/Royauté/Sultan Yascine.md",
-    "NPC/Royauté/Sultan Omer Second.md",
-    "NPC/Royauté/Roi Hatim.md",
+    "Groupes/Characters/Virani du Boisé.md",
+    "Groupes/Characters/Thurrik De Marbre.md",
+    "Groupes/Characters/Kyros.md",
+    "Groupes/Armée indépendante.md",
     "Groupes/Eglises/Université de Mani.md",
-    "Locations/Trois-Rivières/Sainte-Foy.md",
-    "Maps/mapSmall.jpg",
-    "Groupes/Eglises/Ordre Auréonique.md"
+    "Groupes/Eglises/Ordre Auréonique.md",
+    "Groupes/Eglises/Grande Forge.md",
+    "Groupes/Eglises/Église de la Lumière.md",
+    "Locations/Colombia/Victoria.md",
+    "Locations/Colombia/Vancouver.md"
   ]
 }
