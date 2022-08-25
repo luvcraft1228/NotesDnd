@@ -4,6 +4,8 @@
 - dans le mirroir
 ### 3
 ### 4
+- Orc, sur le dos d'une grosse créature (canidé géant - worg), dans des cavernes avec des gens qui travaillent et qui vivent. Dans 5 jours.
+- Tex
 ### ~~5~~
 - dans le mirroir
 ### ~~6
@@ -14,6 +16,7 @@
 - dans le mirroir, capturé par Kyros avant de rejoindre le groupe
 ### 10
 ### 11
+- maeve
 ### 12
 ### ~~13
 - dans le mirroir
@@ -27,6 +30,7 @@
 ### 21
 ### 22
 ### 23
+- Leoni
 
 
 +1 au hasard
