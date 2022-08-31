@@ -4,5 +4,9 @@
     "description": "Backup your vault with git.",
     "isDesktopOnly": true,
     "js": "main.js",
+<<<<<<< HEAD
     "version": "1.31.0"
+=======
+    "version": "1.30.0"
+>>>>>>> origin/main
 }

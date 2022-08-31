@@ -10901,6 +10901,7 @@ var SimpleGit = class extends GitManager {
   }
   updateUpstreamBranch(remoteBranch) {
     return __async(this, null, function* () {
+<<<<<<< HEAD
       try {
         yield this.git.branch(["--set-upstream-to", remoteBranch]);
       } catch (e) {
@@ -10912,6 +10913,9 @@ var SimpleGit = class extends GitManager {
           yield this.git.push(["--set-upstream", ...remoteBranch.split("/")], (err) => this.onError(err));
         }
       }
+=======
+      yield this.git.push(["--set-upstream", ...remoteBranch.split("/")], (err) => this.onError(err));
+>>>>>>> origin/main
     });
   }
   updateGitPath(gitPath) {
@@ -11190,9 +11194,12 @@ var ObsidianGitSettingsTab = class extends import_obsidian2.PluginSettingTab {
         plugin.gitManager.updateBasePath(value || "");
       });
     });
+<<<<<<< HEAD
     new import_obsidian2.Setting(containerEl).setName("Donate").setDesc("If you like this Plugin, consider donating to support continued development.").addButton((bt) => {
       bt.buttonEl.outerHTML = "<a href='https://ko-fi.com/F1F195IQ5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>";
     });
+=======
+>>>>>>> origin/main
     const info = containerEl.createDiv();
     info.setAttr("align", "center");
     info.setText("Debugging and logging:\nYou can always see the logs of this and every other plugin by opening the console with");
@@ -15286,6 +15293,7 @@ var ObsidianGit = class extends import_obsidian18.Plugin {
         callback: () => this.promiseQueue.addTask(() => this.createBackup(false))
       });
       this.addCommand({
+<<<<<<< HEAD
         id: "backup-and-close",
         name: "Create backup and close",
         callback: () => this.promiseQueue.addTask(() => __async(this, null, function* () {
@@ -15294,6 +15302,8 @@ var ObsidianGit = class extends import_obsidian18.Plugin {
         }))
       });
       this.addCommand({
+=======
+>>>>>>> origin/main
         id: "commit-push-specified-message",
         name: "Create backup with specific message",
         callback: () => this.promiseQueue.addTask(() => this.createBackup(false, true))
@@ -15791,7 +15801,11 @@ var ObsidianGit = class extends import_obsidian18.Plugin {
         return false;
       }
       const file = this.app.vault.getAbstractFileByPath(this.conflictOutputFile);
+<<<<<<< HEAD
       const hadConflict = this.localStorage.getConflict() === "true";
+=======
+      const hadConflict = this.localStorage.getConflict();
+>>>>>>> origin/main
       if (this.gitManager instanceof SimpleGit && file)
         yield this.app.vault.delete(file);
       let status;

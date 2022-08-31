@@ -7,8 +7,11 @@
         "id": "9fde06abbe215566",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "diff-view",
+          "state": {
+            "file": ".gitignore",
+            "staged": true
+          }
         }
       }
     ],
