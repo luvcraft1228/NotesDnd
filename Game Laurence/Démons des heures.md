@@ -25,6 +25,7 @@
 ### 16
 ### ~~17
 - Fille aux cheveux long bruns, ville près d'une montagne pleine de nains qui travaillent.
+- dans le mirroir
 ### 18
 ### 19
 ### 21

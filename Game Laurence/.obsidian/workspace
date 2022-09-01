@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9fde06abbe215566",
+        "id": "bdf7320cec974487",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".gitignore",
-            "staged": true
+            "file": "Locations/Clans unis/Meute de Tex.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Clans unis/Meute de Tex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Clans unis/Meute de Tex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Clans unis/Meute de Tex.md"
+              }
             }
           },
           {
@@ -131,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9fde06abbe215566",
+  "active": "bdf7320cec974487",
   "lastOpenFiles": [
-    "Al.md",
+    "Démons des heures.md",
+    "NPC/Dame Mini.md",
+    "Groupes/Characters/Edann Clark.md",
+    "Groupes/Characters/Kyros.md",
+    "NPC/Village des Calanques/Al 1.md",
+    "NPC/Village des Calanques/Al.md",
+    "Locations/Trois-Rivières/Sainte-Foy.md",
     "Faldrus.md",
     "York.md",
-    "Clan des flo.md",
-    "Meute de Tex.md",
-    "NPC/Sigmund.md",
-    "Démons des heures.md",
-    "NPC/Démons/Leoni.md",
-    "NPC/Démons/Maeve.md",
-    "Images/reaper.jpg"
+    "Clan des flo.md"
   ]
 }
